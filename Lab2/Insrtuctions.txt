@@ -1,0 +1,10 @@
+## How to build & run
+To generate the Ninja build scripts:
+```bash
+#   cmake -G "Ninja" .
+
+## To run the project:
+make run
+
+## To clean cache files:
+make clean
